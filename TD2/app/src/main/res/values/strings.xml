@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TD2</string>
+    <string name="message">Salut tout le monde</string>
+    <string name="soir">soir</string>
+    <string name="midi">midi</string>
+    <string name="valider">valider</string>
+    <string name="annuler">annuler</string>
+
+</resources>
